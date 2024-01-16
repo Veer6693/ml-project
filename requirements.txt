@@ -9,4 +9,5 @@ matplotlib
 catboost
 xgboost
 pickle
+mlflow
 # -e .   
